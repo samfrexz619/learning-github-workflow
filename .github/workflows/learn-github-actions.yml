@@ -1,3 +1,4 @@
+--- # This workflow is for learning GitHub Actions. It checks the version of Bats installed.
 name: learn-github-actions
 run-name: ${{github.actor}} is learning GitHub Actions
 on: [push]
